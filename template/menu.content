@@ -1,0 +1,21 @@
+<!-- Header -->
+	<div id="header-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+
+					<header id="header">
+						<h1><a href="@pathto(index)" id="logo">Minimaxing</a></h1>
+						<nav id="nav">
+							<a href="@pathto(index)">Homepage</a>
+							<a href="@pathto(twocolumn1)">Two Column #1</a>
+							<a href="@pathto(twocolumn2)">Two Column #2</a>
+							<a href="@pathto(onecolumn)">One Column</a>
+							<a href="@pathto(threecolumn)">Three Column</a>
+						</nav>
+					</header>
+
+				</div>
+			</div>
+		</div>
+	</div>
